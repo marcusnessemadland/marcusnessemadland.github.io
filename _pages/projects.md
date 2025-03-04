@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Insight blogs of both my professional career as well as side projects outside of work.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Work Projects, Side Projects]
 horizontal: false
 ---
 

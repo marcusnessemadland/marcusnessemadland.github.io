@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Echoes of the End
+description: A brain dump of what I worked on for Echoes of the End
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Work Projects
 related_publications: true
 ---
 

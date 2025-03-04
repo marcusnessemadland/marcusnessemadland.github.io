@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Motionlink
+description: A middleware solution and runtime API for modern skeletal animation in video games.
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Side Projects
 ---
 
 Every project has a beautiful feature showcase page.
