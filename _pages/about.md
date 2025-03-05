@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Marcus N. Madland. I'm a programmer and currently working as an Animation Programmer at Myrkur Games experimenting and implementing all kinds of interesting technology. My interests are Computer Graphics, Skeletal Animation, Engine Architecture and Game Development.
+My name is Marcus Madland. I'm a programmer and currently working as an Animation Programmer at Myrkur Games experimenting and implementing all kinds of interesting technology. My interests are Computer Graphics, Skeletal Animation, Engine Architecture and Game Development.
 
 On the website I post about both my personal and proffesional programming projects. I hope you'll enjoy it and find something that interests you.
 
